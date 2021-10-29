@@ -1,7 +1,7 @@
 /*Instructions
  - Greet your friend by printing a message to the console.
 */
-var myFriend="Shankara"
+var myFriend="dulquer salman"
 ///////////////
 function greetings() {
       return myFriend;
